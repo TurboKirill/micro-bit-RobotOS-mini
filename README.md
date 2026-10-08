@@ -96,7 +96,6 @@ The robot has no distance sensors, but detects collisions using the onboard acce
 ### 👨‍💻 Author & Credits
 
 Developed by **Kirill Dmitriev** (`nitroline@mail.ru`) for **Robert Dmitriev**.  
-Licensed under the [MIT License](LICENSE).
 
 <br>
 
