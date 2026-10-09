@@ -4,6 +4,12 @@
 
 ---
 
+### 🎬 Видео работы на YouTube
+[![RobotOS Demo Video](https://img.youtube.com/vi/h3U7JKe92s8/maxresdefault.jpg)](https://www.youtube.com/watch?v=h3U7JKe92s8)
+*(Кликните по картинке выше для перехода к просмотру видео)*
+
+---
+
 ## 🇷🇺 Русский
 
 [![micro:bit](https://img.shields.io/badge/Плата-micro:bit%20v2-blue.svg)](https://microbit.org/)
