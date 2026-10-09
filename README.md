@@ -156,12 +156,16 @@ All modules connect directly to the **IO:BIT V2** shield:
 ### 📁 Project Structure (MicroPython)
 
 All `.py` files must be uploaded to the root file system of the micro:bit via **Thonny IDE**:
+
+```text
 📁 microbit/
 ├── 📄 main.py # Main loop, system menu, autonomous drive logic
 ├── 📄 sh1106.py # Display driver (1.3" OLED SH1106) with 5x8 font
 ├── 📄 eyes.py # Animated expressive robot eyes (radius = 3)
 ├── 📄 motors.py # PWM control for continuous wheels and bucket servo
 └── 📄 apps.py # Integrated tools: G-Sensor spirit level & Temperature
+```
+
 > **Firmware Note:** If Thonny cannot detect the board, reflash the micro:bit interface with `0257_nrf52820_microbit_if_crc_c782a5ba90_gcc.hex`.
 
 ---
