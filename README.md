@@ -47,8 +47,6 @@
 
 ### 📁 Структура файлов в памяти платы (MicroPython)
 
-### 📁 Структура файлов в памяти платы (MicroPython)
-
 Файлы загружаются в память micro:bit через среду **Thonny IDE**: https://thonny.org/
 
 ```text
