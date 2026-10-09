@@ -49,7 +49,7 @@
 
 ### 📁 Структура файлов в памяти платы (MicroPython)
 
-Файлы загружаются в память micro:bit через среду **Thonny IDE**:
+Файлы загружаются в память micro:bit через среду **Thonny IDE**: https://thonny.org/
 
 ```text
 📁 microbit/
@@ -155,7 +155,7 @@ All modules connect directly to the **IO:BIT V2** shield:
 
 ### 📁 Project Structure (MicroPython)
 
-All `.py` files must be uploaded to the root file system of the micro:bit via **Thonny IDE**:
+All `.py` files must be uploaded to the root file system of the micro:bit via **Thonny IDE**: https://thonny.org/
 
 ```text
 📁 microbit/
