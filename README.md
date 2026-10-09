@@ -60,7 +60,8 @@
 └── 📄 apps.py      # Модули: уровень (G-сенсор) и градусник процессора
 ```
 
-> **Прошивка платы:** Если Thonny не видит плату, перепрошейте интерфейс micro:bit файлом `0257_nrf52820_microbit_if_crc_c782a5ba90_gcc.hex`.
+> **Прошивка платы:** Если Thonny не видит плату, перепрошейте micro:bit файлом `0257_nrf52820_microbit_if_crc_c782a5ba90_gcc.hex`. (официальная прошивка загружена в репозиторий)
+> Режим прошивки: Подключите плату к USB с зажатой кнопкой RESET на задней стороне платы, чтобы устройство определилось как MAINTENANCE, а не MICROBIT
 
 ---
 
@@ -82,7 +83,7 @@
 1. **1-й удар:** Грустные глазки ➔ подъем ковша ➔ откат назад 1 сек ➔ поворот **налево на 90°** ➔ спуск ковша ➔ движение дальше.
 2. **2-й удар подряд (в течение 2.5 сек):** Значит робот в углу/тупике — делает полный **разворот на 180°**!
 3. **Свободный путь:** Если робот проехал прямо без ударов более 2.5 секунд, память тупика обнуляется, возвращая легкий поворот на 90°.
-
+P.S. сенсору требуется калибровка, пока не доделал
 ---
 
 ### ⚙️ Бортовое меню (RobotOS)
@@ -166,7 +167,7 @@ All `.py` files must be uploaded to the root file system of the micro:bit via **
 └── 📄 apps.py # Integrated tools: G-Sensor spirit level & Temperature
 ```
 
-> **Firmware Note:** If Thonny cannot detect the board, reflash the micro:bit interface with `0257_nrf52820_microbit_if_crc_c782a5ba90_gcc.hex`.
+> **Firmware Note:** If Thonny cannot detect the board, reflash the micro:bit interface with `0257_nrf52820_microbit_if_crc_c782a5ba90_gcc.hex`. (official firmware)
 
 ---
 
@@ -188,7 +189,7 @@ The robot has no distance sensors, but detects collisions using the onboard acce
 1. **1st Collision:** Shows sad eyes ➔ raises the bucket ➔ reverses for 1 sec ➔ turns left 90° ➔ lowers the bucket ➔ resumes driving.
 2. **2nd Collision in a row (< 2.5 sec):** Indicates the robot is trapped in a corner. It immediately reverses and performs a full **180° U-turn**!
 3. **Clear Path:** If the robot drives freely for > 2.5 seconds, collision history resets back to default (90° turn).
-
+P.S. The sensor needs calibration; I haven't finished that part yet.
 ---
 
 ### ⚙️ RobotOS System Menu
