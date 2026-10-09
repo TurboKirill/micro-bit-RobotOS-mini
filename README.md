@@ -193,6 +193,13 @@ Developed by **Kirill Dmitriev** (`nitroline@mail.ru`) for **Robert Dmitriev**.
 
 ---
 
+<img width="3840" height="2160" alt="IMG_0626" src="https://github.com/user-attachments/assets/579094f6-6071-4b2c-8e12-2a4b563d291a" />
+<img width="3840" height="2160" alt="IMG_0629 (3)" src="https://github.com/user-attachments/assets/b1edac7c-60f5-457c-8867-a9d782c896c4" />
+<img width="3840" height="2160" alt="IMG_0629" src="https://github.com/user-attachments/assets/cb18fd46-cf28-4280-81a2-940c23c61138" />
+<img width="3840" height="2160" alt="IMG_0629 (1)" src="https://github.com/user-attachments/assets/505f3689-007c-470a-854c-1cdefccdb54c" />
+<img width="3840" height="2160" alt="IMG_0629 (2)" src="https://github.com/user-attachments/assets/32f0d277-f9a4-4bb8-a2ca-2bdfca71bc22" />
+
+
 ### 👨‍💻 Автор проекта
 
 Разработано: **Кирилл Дмитриев** (`nitroline@mail.ru`) для **Роберта Дмитриева**.  
